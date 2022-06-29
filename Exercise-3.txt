@@ -1,0 +1,16 @@
+1.implement Many-To-One Mapping by using user ,vehicles entityes
+-create entity class Student with bellow variable.
+	A.user_id;
+	B.user_name;
+	C.vehicles;
+
+-craete entity class vehicles with bellow variable.
+	A.vid;
+	B.vname;
+	C.vprice;
+	
+
+
+1.insert values into user table
+2.insert values into vehicles table
+3.implement Many-To-One Maping between these two.
